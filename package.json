@@ -1,0 +1,23 @@
+{
+  "name": "node-gpio",
+  "version": "1.0.0",
+  "description": "Simple Raspberry PI",
+  "main": "gpip.js",
+  "dependencies": {
+    "pi-gpio": "^0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powercoder23/simpleLedPi.git"
+  },
+  "author": "Dhiraj Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powercoder23/simpleLedPi/issues"
+  },
+  "homepage": "https://github.com/powercoder23/simpleLedPi#readme"
+}
